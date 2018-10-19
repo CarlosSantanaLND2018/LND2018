@@ -1,0 +1,38 @@
+h1 {
+color: red;    
+}
+
+p{
+ color: indianred;
+    
+    
+}
+span.negrita{
+color: blueviolet;   
+text-transform: capitalize;
+    font-weight: bold;
+        
+}
+
+span.cursiva{
+color: forestgreen;  
+    font-style: italic;
+    
+}
+
+li{
+
+   color: yellow;
+    font-family: courier new, times new roman, arial; 
+    background-color:gray;   
+}
+
+
+
+
+
+
+
+
+
+
